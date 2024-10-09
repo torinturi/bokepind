@@ -215,6 +215,7 @@ const jsonLd = {
                                 </TableRow>
                             </TableBody>
                         </Table>
+                        </div>
                 </CardContent>
             </Card>
             <h2 className="text-2xl font-bold text-center my-4">
